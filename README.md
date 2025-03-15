@@ -4,7 +4,7 @@
 
 * in your phpmyadmin, create the "parks_canada" databse,
 
-* then import: nationalparks.csv, activities, csv, users.sql as tables
+* then import the updated datasets: nationalparks.csv, ecological.csv, users.sql as tables (all files are in the repo)
 
 * use the sample to create you .env file
 
