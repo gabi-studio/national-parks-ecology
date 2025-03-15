@@ -1,4 +1,6 @@
 # national-parks-ecology
+## collaboration with [Tashrif](https://github.com/Ramdao) and [Joyce](https://github.com/wanchanlin)
+
 
 * database name is "parks_canada"
 
